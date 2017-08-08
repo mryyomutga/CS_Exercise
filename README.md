@@ -10,7 +10,7 @@ Visual Studio等の統合開発環境(IDE)は使用していない
 - Windows10 Pro x64
 - Microsoft (R) Visual C# Compiler version 4.7.2053.0 for C# 5
 
-## 目次
+## ソースコードの目次
 以下のページを参照  
 
 [ソースのリスト](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/SourceList.md)
@@ -22,11 +22,11 @@ Visual Studio等の統合開発環境(IDE)は使用していない
 - コンパイラが C# 5のため、C# 6以降に実装された機能は、記述するようにしているが動作確認はしていない。
 
 ## その他
-ソースコードについて
+### ソースコードについて
 - コードは自由に改変可
 - ご指摘があれば報告お願いします  
 
-コメント
+### コメント
 - Visual Studio 2017 Enterpriseをインストールしているけど、C# 7のコンパイラはどこ？
 - JavaやC言語に比べて書きにくい(フォーマット、変数の扱い)
 
