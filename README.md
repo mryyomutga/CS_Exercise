@@ -1,15 +1,18 @@
 # C#_Exercise
 ## 目的
-- C#の勉強を始めたので、作成したソースを管理する
+- C#の勉強を始めたので、作成したソースの管理
 - GitHub上にアップロードし、C#の勉強を始める人のための手助け
 
-## 環境
+## 環境  
+エディタとコマンドプロンプトによる開発  
 Visual Studio等の統合開発環境(IDE)は使用していない
 - Windows10 Pro x64
 - Microsoft (R) Visual C# Compiler version 4.7.2053.0 for C# 5
 
 ## 目次(勉強した内容)
 ### p1
+1. 開発環境の構築
+2. Hello Worldの表示
 
 ### p2
 
