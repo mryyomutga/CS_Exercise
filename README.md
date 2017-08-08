@@ -9,16 +9,6 @@ Visual Studio等の統合開発環境(IDE)は使用していない
 - Windows10 Pro x64
 - Microsoft (R) Visual C# Compiler version 4.7.2053.0 for C# 5
 
-## 目次(勉強した内容)
-### p1
-1. Hello Worldの表示
-
-### p2
-1. 変数・リテラル
-2. フォーマット
-3. 演算
-4. 型推論・匿名型
-
 ## 注意事項
 - 勉強を始めたばかりでC#についてよくわかっていない
 - ソースコードに無駄、意味が異なるものもある
