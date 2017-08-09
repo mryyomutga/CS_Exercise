@@ -13,7 +13,7 @@ Visual Studio等の統合開発環境(IDE)は使用していない
 ## ソースコードの目次
 以下のページを参照  
 
-[ソースのリスト](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/SourceList.md)
+[ソースのリスト](https://github.com/mryyomutga/CS_Exercise/blob/master/SourceList.md)
 
 ## 注意事項
 - 問題が生じた場合、一切の責任を取りません。自己責任でお願いします。
