@@ -1,3 +1,6 @@
+/*
+ * フォーマットについて
+*/
 using System;
 
 namespace format{

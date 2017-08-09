@@ -1,3 +1,6 @@
+/*
+ * for文による繰り返し処理
+*/
 using System;
 
 namespace iteration2{

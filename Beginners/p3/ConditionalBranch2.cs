@@ -1,3 +1,6 @@
+/*
+ * switch文の基本
+*/
 using System;
 
 namespace conditionalBranch2{

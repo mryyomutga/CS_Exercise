@@ -1,3 +1,6 @@
+/*
+ * goto文について
+*/
 using System;
 
 namespace conditionalBranch3{

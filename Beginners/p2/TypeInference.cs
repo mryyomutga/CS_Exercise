@@ -1,3 +1,6 @@
+/*
+ * 型推論と構造体を使った変数
+*/
 using System;
 
 namespace typeInference{

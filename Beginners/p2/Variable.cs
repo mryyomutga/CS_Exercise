@@ -1,4 +1,6 @@
-// variable and statement
+/*
+ * 変数の基本的な操作
+*/
 using System;
 
 namespace variable{

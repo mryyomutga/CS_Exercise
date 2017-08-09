@@ -1,3 +1,6 @@
+/*
+ * 演算処理
+*/
 using System;
 
 namespace operation{
