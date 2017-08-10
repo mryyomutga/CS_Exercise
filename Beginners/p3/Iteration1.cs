@@ -4,7 +4,7 @@
 using System;
 
 namespace iteration1{
-	class Programe{
+	class Program{
 		public static void Main(string[] args){
 			int a, b;
 			Console.WriteLine("ユークリッドの互除法を用いて最大公約数を求めます");

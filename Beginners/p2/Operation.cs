@@ -4,7 +4,7 @@
 using System;
 
 namespace operation{
-	class Programe{
+	class Program{
 		public static void Main(String[] args){
 			int x = 100;
 			int y = 20;

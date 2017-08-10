@@ -27,3 +27,9 @@
 7. [メソッドのオーバーロード](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p4/Method5.cs)
 8. [ローカル関数と匿名関数](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p4/Method6.cs)
 9. [可変長引数について(paramsキーワード)](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p4/Method7.cs)
+
+## p5 ライブラリ・構造化
+1. [標準ライブラリ](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p5/Librarys.cs)
+2. [列挙型](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p5/EnumerationType.cs)
+3. [複合型(クラス・タプル)](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p5/ComplexType1.cs)
+4. [名前のない複合型](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p5/ComplexType2.cs)

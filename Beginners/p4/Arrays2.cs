@@ -4,7 +4,7 @@
 using System;
 
 namespace arrays2{
-	class Programe{
+	class Program{
 		public static void Main(string[] args){
 			// 多次元配列(2次元) : 型名[,] 変数名;
 			// 変数名 = new 型名[サイズ1,サイズ2];

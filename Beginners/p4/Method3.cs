@@ -9,7 +9,7 @@ namespace method3{
 		public int sum;
 		public int count;
 	}
-	class Programe{
+	class Program{
 		// 複合型で複数の値を返す
 		static SumCount calc(int[] items){
 			var sum = 0;

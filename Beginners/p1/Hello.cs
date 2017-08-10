@@ -4,7 +4,7 @@
 using System;
 
 namespace hello{
-	class Programe{
+	class Program{
 		public static void Main(string[] args)
 		{
 			// Writeは改行なし

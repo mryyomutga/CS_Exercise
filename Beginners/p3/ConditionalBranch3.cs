@@ -4,7 +4,7 @@
 using System;
 
 namespace conditionalBranch3{
-	class Programe{
+	class Program{
 		public static void Main(String[] args){
 			int x = 1;
 			int y = 4;

@@ -4,7 +4,7 @@
 using System;
 
 namespace iteration2{
-	class Programe{
+	class Program{
 		public static void Main(string[] args){
 			int a;
 

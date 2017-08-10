@@ -4,7 +4,7 @@
 using System;
 
 namespace iteration2{
-	class Programe{
+	class Program{
 		public static void Main(string[] args){
 			// for: 条件判定がfalseになるまで繰り返す
 			for(int x = 1; x < 10; x++){

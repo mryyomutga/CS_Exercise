@@ -4,7 +4,7 @@
 using System;
 
 namespace arrays1{
-	class Programe{
+	class Program{
 		public static void Main(string[] args){
 			// 配列 : 型名[] 変数名;
 			// 変数 = new 型名[配列の長さ];

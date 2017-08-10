@@ -8,7 +8,7 @@ namespace method7{
 		public int max;
 		public int min;
 	}
-	class Programe{
+	class Program{
 		// paramsキーワードで引数を可変長にできる
 		// 引数なしでも関数を呼び出せる
 		/// <summary>

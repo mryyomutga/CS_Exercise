@@ -5,7 +5,7 @@ using System;
 using System.Linq;
 
 namespace method6{
-	class Programe{
+	class Program{
 		public static void Main(string[] args){
 			var input = new[]{1, 2, 3, 4, 5};
 			// 匿名関数 : outputにWhereの条件からSelectの内容を格納

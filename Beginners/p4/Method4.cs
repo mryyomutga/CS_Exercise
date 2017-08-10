@@ -4,7 +4,7 @@
 using System;
 
 namespace method4{
-	class Programe{
+	class Program{
 		// 引数を初期化しておく
 		static int Sum(int x = 0, int y = 0, int z = 0){
 			Console.WriteLine("({0}, {1}, {2})", x, y, z);

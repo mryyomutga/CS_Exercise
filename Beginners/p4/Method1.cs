@@ -4,7 +4,7 @@
 using System;
 
 namespace method1{
-	class Programe{
+	class Program{
 		// 関数(メソッド) : 戻り値の型 関数名(引数)
 		// 文字列を標準出力する関数(改行有)
 		static void Echo(string echo){

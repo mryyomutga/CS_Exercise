@@ -4,7 +4,7 @@
 using System;
 
 namespace format{
-	class Programe{
+	class Program{
 		public static void Main(string[] args){
 			double x = 1.0, y = 2.0;
 			// Formatメソッドを用いた文字列挿入

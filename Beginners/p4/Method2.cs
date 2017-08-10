@@ -7,7 +7,7 @@ namespace method2{
 	// 肩を1つ作成
 	struct Unit{}
 
-	class Programe{
+	class Program{
 		// 戻り値ありで統一する
 		// voidの代わりにUnitを使う
 		// 不格好になるためあまり使用しない方がよい

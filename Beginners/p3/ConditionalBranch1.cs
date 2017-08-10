@@ -4,7 +4,7 @@
 using System;
 
 namespace conditionalBranch1{
-	class Programe{
+	class Program{
 		public static void Main(String[] args){
 			int x = 0;
 			Console.WriteLine("逆数を求めます");

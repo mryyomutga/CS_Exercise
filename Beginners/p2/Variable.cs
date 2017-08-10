@@ -4,7 +4,7 @@
 using System;
 
 namespace variable{
-	class Programe{
+	class Program{
 		public static void Main(String[] args){
 			// 変数とリテラル
 			int n = 3;
