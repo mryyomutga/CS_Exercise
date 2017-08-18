@@ -33,3 +33,6 @@
 2. [列挙型](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p5/EnumerationType.cs)
 3. [複合型(クラス・タプル)](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p5/ComplexType1.cs)
 4. [名前のない複合型](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p5/ComplexType2.cs)
+5. [名前空間について](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p5/NameSpace1.cs)
+6. [エイリアスについて](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p5/NameSpace2.cs)
+7. [例外処理](https://github.com/mryyomutga/CS_Exercise/blob/master/Beginners/p5/ExceptionHandling.cs)
